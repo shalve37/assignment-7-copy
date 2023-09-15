@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/r3y4W4W/164.jpg",
+        "title": "Web Development Basics",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "49.99",
+        "credits": "1"
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/YkLQ0yv/4102879-971.jpg",
+        "title": "Python for Beginners",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "59.99",
+        "credits": "2"
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/dBPC4vX/10782951-19199360.jpg",
+        "title": "Advanced JavaScript",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "79.99",
+        "credits": "10"
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/kQDpwmH/2807756-18131.jpg",
+        "title": "Data Science with R",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "69.99",
+        "credits": "5"
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/HXNf0gL/10354235-4428861.jpg",
+        "title": "Mobile App Development",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "89.99",
+        "credits": "5"
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co/y61QYfx/11668759-20945347.jpg",
+        "title": "Machine Learning and AI",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "99.99",
+        "credits": "2"
+    },
+    {
+        "id": 7,
+        "cover": "https://i.ibb.co/0mTWHwt/5259907-20642.jpg",
+        "title": "Ethical Hacking",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "79.99",
+        "credits": "5"
+    },
+    {
+        "id": 8,
+        "cover": "https://i.ibb.co/6FRR2TD/person-front-computer-working-html.jpg",
+        "title": "Full-Stack WD",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "89.99",
+        "credits": "5"
+    },
+    {
+        "id": 9,
+        "cover": "https://i.ibb.co/TchWp7W/3d-cryptocurrency-rendering-design.jpg",
+        "title": "Blockchain-Crypto",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": "69.99",
+        "credits": "2"
+    }
+]
